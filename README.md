@@ -193,3 +193,5 @@ See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for the two-minute presentation.
 
 ## Visual refinement
 The dashboard uses a calmer, lower-contrast visual system with quieter status colours, reduced shadows, and more consistent spacing. Core quiz, analysis, and revision functionality is unchanged.
+
+# Class-Lens
